@@ -1,0 +1,38 @@
+name: bapp
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flex_color_scheme: ^7.3.1
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/bneticon.png
+    - assets/Perfil_01.png
+    - assets/Perfil_02.png
+    - assets/Perfil_03.png
+    - assets/Perfil_04.png
+    - assets/Perfil_05.png
+    - assets/Perfil_06.png
+    - assets/Perfil_07.png
+    - assets/Perfil_08.png
+    - assets/Perfil_09.png
+    - assets/Perfil_10.png
+    - assets/Perfil_11.png
+    - assets/Perfil_12.png
+
+splashscreen: ^1.3.0
