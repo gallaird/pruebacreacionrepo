@@ -1,9 +1,11 @@
-import 'package:bapp/social/conversaciones.dart';
-import 'package:bapp/social/grupos.dart';
+import 'package:bapp3/botnav/juegos.dart';
+import 'package:bapp3/botnav/tienda.dart';
+import 'package:bapp3/botnav/home.dart';
+import 'package:bapp3/social/conversaciones.dart';
+import 'package:bapp3/social/grupos.dart';
+import 'package:bapp3/social/amigos.dart';
 import 'package:flutter/material.dart';
-import 'package:bapp/theme.dart';
-import 'splashscreen.dart'; // Importa la clase SplashScreen desde el archivo splashscreen.dart
-import 'social/amigos.dart';
+import 'package:bapp3/theme.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 
